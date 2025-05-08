@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Lethabo-20
+👋 Hi, I’m @Lethabo-20
 I'm an Honours student in Business and Financial Analytics at the University of the Free State, with a strong passion for AI, data science, and finance. My goal is to become a data analyst specialist, using AI-driven solutions to solve real-world financial and business problems.
 
 💞️ My goal is to become a data analyst specialist with expertise in AI-driven solutions, leveraging advanced analytical techniques to solve real-world financial and business challenges, uncover insights, and drive meaningful innovation. 
